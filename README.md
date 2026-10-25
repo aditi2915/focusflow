@@ -67,4 +67,4 @@ FocusFlow prioritizes simplicity. Instead of overwhelming students with complica
 
 **Syntax Error 2026 Hackathon**
 
-Built with 💙 to make student life a
+Built with 💙 to make student life a little more organized.
